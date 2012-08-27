@@ -1,0 +1,22 @@
+<transcript>
+	<messages>
+		<message>
+			<to>test1@server</to>
+			<from>test2@server/spark</from>
+			<body>пойду в кадры, нужно провод сетевой переобжать</body>
+			<date>2011-02-11 09:39:01.579 MSK</date>
+		</message>
+		<message>
+			<to>test2@server/spark</to>
+			<from>test1@server/spark</from>
+			<body>хорошо</body>
+			<date>2011-02-11 09:42:01.445 MSK</date>
+		</message>
+		<message>
+			<to>test1@server</to>
+			<from>test2@server/spark</from>
+			<body>я пошел в кадры, просили попробовать восстановить удаленный файл, а Сергей в телесемь, предупредил что сразу туда пойдет</body>
+			<date>2011-02-18 09:10:52.165 MSK</date>
+		</message>
+	</messages>
+</transcript>
